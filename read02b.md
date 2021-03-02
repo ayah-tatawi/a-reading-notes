@@ -1,9 +1,9 @@
 # Read: 02b - Revisions and the Cloud
 
 ## Version Control
-""is a system that allows you to revisit various versions of a file or set of files by recording changes""
+ **is a system that allows you to revisit various versions of a file or set of files by recording changes
 
-"Every single change applied to any file or directory is tracked by Git"
+*Every single change applied to any file or directory is tracked by Git"
 
 states
 
@@ -25,7 +25,7 @@ Git files could be found in three states:
 * Index: The area used for staging
 * Head: Points to the most recent commit 
 
-Pushing Changes
+*Pushing Changes
 
 # For exporting and pushing the changes to a remote repository, so others can see it, use the following command: $ git push origin master
 
