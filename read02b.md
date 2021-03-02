@@ -4,7 +4,7 @@
  **is a system that allows you to revisit various versions of a file or set of files by recording changes**
 
 *Every single change applied to any file or directory is tracked by Git"*
-
+//////
 states
 
 Git files could be found in three states:
