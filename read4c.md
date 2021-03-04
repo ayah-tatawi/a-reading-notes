@@ -27,4 +27,4 @@ How to assgin them? (Links to an external site.)
 var name-of-your-var = value; you can write boolen, string or number as variable value
 
 
-
+aaa
